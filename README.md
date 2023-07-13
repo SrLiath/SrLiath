@@ -40,7 +40,7 @@
 <h2>👨‍💻 Programming and Markup Languages</h2>
 
 <p>
- <img src="https://skillicons.dev/icons?i=python,php,javascript,c,cpp,java,typescript,html,html5,css,md" />
+ <img src="https://skillicons.dev/icons?i=python,php,javascript,c,cpp,java,typescript,html,css,md" />
 
 </p>
 
