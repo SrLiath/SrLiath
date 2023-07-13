@@ -20,7 +20,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">This is your life, and it's ending one minute at a time...</h2></summary>
+    <summary><h2 style="display: inline-block"> <i>This is your life, and it's ending one minute at a time...</i> </h2></summary>
   </ul>
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
