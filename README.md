@@ -97,10 +97,10 @@
     <summary><h2 style="display: inline-block">🐱‍👤My Hobbies</h2></summary>
   </ul>
 </div>
- - Mangás and Hq's📚
- - Martial arts🥊
- - Basketball🏀
- - Cooking🍲
+- Mangás and Hq's📚
+- Martial arts🥊
+- Basketball🏀
+- Cooking🍲
 
 <div id="user-content-toc">
   <ul align="center">
