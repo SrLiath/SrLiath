@@ -98,7 +98,7 @@
   </ul>
 </div>
 <ul>
-<li> Mangás and Hq's📚</li>
+<li> Mangás and comic's📚</li>
 <li> Martial arts🥊</li>
 <li> Basketball🏀</li>
 <li> Cooking🍲</li>
