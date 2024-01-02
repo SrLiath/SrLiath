@@ -28,9 +28,9 @@
 <!--Intro start-->
 - 🔎 I'm currently looking for work in programming.
   
-- 🔭 I'm currently doing freelances in **python, php and java**.
+- 🔭 I'm currently doing freelances in **javascript(nodejs), php and python**.
 
-- 🌱 I’m currently learning more about **Java**.
+- 🌱 I’m currently learning more about **good practices in mobile development**.
 
 - ☁️ I've keen interest in cybersecurity, so I always learn as a hobby about security and pentesting.
 
@@ -47,7 +47,7 @@
 <h2>🧰 Frameworks and Libraries</h2>
 
 <p>
- <img src="https://skillicons.dev/icons?i=jquery,electron,django,selenium,react,bootstrap,adonis" />
+ <img src="https://skillicons.dev/icons?i=jquery,electron,django,selenium,react,bootstrap,adonis,laravel" />
 </p>
 
 <h2>🗄️ Databases and Cloud Hosting</h2>
