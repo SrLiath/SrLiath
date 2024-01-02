@@ -40,14 +40,14 @@
 <h2>👨‍💻 Programming and Markup Languages</h2>
 
 <p>
- <img src="https://skillicons.dev/icons?i=python,php,javascript,c,cpp,java,html,css,md" />
+ <img src="https://skillicons.dev/icons?i=python,php,javascript,html,css,md" />
 
 </p>
 
 <h2>🧰 Frameworks and Libraries</h2>
 
 <p>
- <img src="https://skillicons.dev/icons?i=jquery,electron,django,selenium,react,bootstrap" />
+ <img src="https://skillicons.dev/icons?i=jquery,electron,django,selenium,react,bootstrap,adonis" />
 </p>
 
 <h2>🗄️ Databases and Cloud Hosting</h2>
