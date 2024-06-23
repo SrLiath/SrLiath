@@ -28,9 +28,9 @@
 <!--Intro start-->
 - 🔎 I'm currently looking for work in programming.
   
-- 🔭 I'm currently doing freelances in **javascript(nodejs), php and python**.
+- 🔭 I'm currently doing freelances in **javascript(nodejs), php, python and React Native**.
 
-- 🌱 I’m currently learning more about **good practices in mobile development**.
+- 🌱 I’m currently learning more about **Machine Learning**.
 
 - ☁️ I've keen interest in cybersecurity, so I always learn as a hobby about security and pentesting.
 
