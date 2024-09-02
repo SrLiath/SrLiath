@@ -40,7 +40,7 @@
 <h2>👨‍💻 Programming and Markup Languages</h2>
 
 <p>
- <img src="https://skillicons.dev/icons?i=python,php,javascript,nodejs,html,css,md" />
+ <img src="https://skillicons.dev/icons?i=python,php,javascript,nodejs,html,css,md,java,terraform" />
 
 </p>
 
@@ -58,7 +58,7 @@
 
 <h2>💻 Software and Tools</h2>
 
- <img src="https://skillicons.dev/icons?i=vscode,eclipse,androidstudio,idea,git,bash,discord,docker,linux,nginx" />
+ <img src="https://skillicons.dev/icons?i=vscode,eclipse,androidstudio,idea,git,bash,discord,docker,linux,nginx,linux,windows,apple" />
 
 
 <!--- stats & Trophy (start) -->
