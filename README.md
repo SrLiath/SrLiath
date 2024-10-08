@@ -81,9 +81,13 @@
 <!--- trophy (start) -->
 
 </p>        
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=SrLiath&theme=onedark" alt="Trophy" />
-</a>
+<div style="display: flex; justify-content: center;">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=SrLiath&theme=onedark&title=-Reviews" alt="Trophy" />
+  </a>
+</div>
+
+
 
 
 <div id="user-content-toc">
