@@ -58,7 +58,7 @@
 
 <h2>💻 Software and Tools</h2>
 
- <img src="https://skillicons.dev/icons?i=vscode,eclipse,androidstudio,idea,git,bash,discord,docker,linux,nginx,linux,windows,apple" />
+ <img src="https://skillicons.dev/icons?i=vscode,eclipse,androidstudio,idea,git,bash,discord,docker,nginx,linux,windows,apple" />
 
 
 <!--- stats & Trophy (start) -->
