@@ -20,34 +20,34 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block"> <i>This is your life, and it's ending one minute at a time...</i> </h2></summary>
+    <summary><h2 style="display: inline-block"> <i>everyone is vulnerable, the important thing is to update yourself</i> </h2></summary>
   </ul>
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--Intro start-->
-- 🔎 I'm currently looking for work in programming.
+- 🔎 I'm currently learning anothers languages.
   
-- 🔭 I'm currently doing freelances in **javascript(nodejs), php, python and React Native**.
+- 🔭 I'm currently doing working with **javascript(nodejs), php, flutter and React Native**.
 
-- 🌱 I’m currently learning more about **Machine Learning**.
+- 🌱 I’m currently improving my skills.
 
 - ☁️ I've keen interest in cybersecurity, so I always learn as a hobby about security and pentesting.
 
 - 📫 Feel free to reach me out **Santos.jonathan.jj@gmail.com**
 
 <!--Intro end-->
-<h2>👨‍💻 Programming and Markup Languages</h2>
+<h2>👨‍💻 Programming Languages</h2>
 
 <p>
- <img src="https://skillicons.dev/icons?i=python,php,javascript,nodejs,html,css,md,java,terraform" />
+ <img src="https://skillicons.dev/icons?i=python,php,nodejs,java,dart" />
 
 </p>
 
 <h2>🧰 Frameworks and Libraries</h2>
 
 <p>
- <img src="https://skillicons.dev/icons?i=jquery,electron,django,selenium,react,bootstrap,adonis,laravel" />
+ <img src="https://skillicons.dev/icons?i=jquery,electron,django,selenium,react,flutter,bootstrap,adonis,laravel" />
 </p>
 
 <h2>🗄️ Databases and Cloud Hosting</h2>
@@ -58,7 +58,7 @@
 
 <h2>💻 Software and Tools</h2>
 
- <img src="https://skillicons.dev/icons?i=vscode,eclipse,androidstudio,idea,git,bash,discord,docker,nginx,linux,windows,apple" />
+ <img src="https://skillicons.dev/icons?i=vscode,androidstudio,bash,docker,linux,windows,apple" />
 
 
 <!--- stats & Trophy (start) -->
