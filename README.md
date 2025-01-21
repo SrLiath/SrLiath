@@ -40,20 +40,20 @@
 <h2>👨‍💻 Programming Languages</h2>
 
 <p>
- <img src="https://skillicons.dev/icons?i=python,php,nodejs,java,dart" />
+ <img src="https://skillicons.dev/icons?i=nodejs,php,java,dart" />
 
 </p>
 
 <h2>🧰 Frameworks and Libraries</h2>
 
 <p>
- <img src="https://skillicons.dev/icons?i=jquery,electron,django,selenium,react,flutter,bootstrap,adonis,laravel" />
+ <img src="https://skillicons.dev/icons?i=jquery,electron,selenium,react,flutter,adonis,laravel" />
 </p>
 
 <h2>🗄️ Databases and Cloud Hosting</h2>
 
 <p>
- <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,github,sqlite,gcp,aws,azure" />
+ <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,gcp,aws,azure" />
 </p>
 
 <h2>💻 Software and Tools</h2>
