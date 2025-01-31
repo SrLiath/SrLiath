@@ -107,7 +107,6 @@
     <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
   </ul>
 </div>
-## Contatos
 
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/SrLiath) **[SrLiath](https://github.com/SrLiath)**  
 
