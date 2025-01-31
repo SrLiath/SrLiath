@@ -107,9 +107,13 @@
     <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
   </ul>
 </div>
-<p> <img src="https://skillicons.dev/icons?i=github" /> [SrLiath](https://github.com/SrLiath)
-<p> <img src="https://skillicons.dev/icons?i=instagram" />[JawJihn](http://instagram.com/jawjihn)
-<p> <img src="https://skillicons.dev/icons?i=linkedin" /> [Jonathan Santos](https://linkedin.com/in/jawjihn)
+## Contatos
+
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/SrLiath) **[SrLiath](https://github.com/SrLiath)**  
+
+[![Instagram](https://skillicons.dev/icons?i=instagram)](http://instagram.com/jawjihn) **[JawJihn](http://instagram.com/jawjihn)**  
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/jawjihn) **[Jonathan Santos](https://linkedin.com/in/jawjihn)**  
 
 
 <!--horizontal divider(gradiant)-->
