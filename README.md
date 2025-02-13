@@ -61,16 +61,19 @@
  <img src="https://skillicons.dev/icons?i=vscode,androidstudio,bash,docker,linux,windows,apple" />
 
 
+
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
-  
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=SrLiath&theme=dark&show_icons=true&count_private=true" />
   <br></br>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SrLiath&theme=dark&hide_border=false" /> 
+  <br></br>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=srliath" alt="Srliath WakaTime stats">
+
 </td>
 
 
