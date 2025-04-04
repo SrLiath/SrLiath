@@ -101,6 +101,7 @@
 <li> Martial arts🥊</li>
 <li> Basketball🏀</li>
 <li> Cooking🍲</li>
+<li> Chess♞</li>
 </ul>
 
 <div id="user-content-toc">
