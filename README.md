@@ -1,9 +1,8 @@
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">I'm <a href="https://srliath.github.io" >Jonathan</a></h1></summary>
+    <summary><h1 style="display: inline-block">I'm <a href="https://srliath.github.io" >John</a></h1></summary>
   </ul>
 </div>
 
@@ -20,7 +19,6 @@
     <summary><h2 style="display: inline-block"> <i>everyone is vulnerable, the important thing is to update yourself</i> </h2></summary>
   </ul>
 </div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--Intro start-->
 - 🔎 I'm currently learning anothers languages.
@@ -115,4 +113,4 @@
 
 
 <!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
