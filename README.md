@@ -40,7 +40,7 @@
 <h2>👨‍💻 Programming Languages</h2>
 
 <p>
- <img src="https://skillicons.dev/icons?i=nodejs,php,java,dart" />
+ <img src="https://skillicons.dev/icons?i=nodejs,ts,js,php,java,dart" />
 
 </p>
 
