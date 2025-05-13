@@ -10,10 +10,7 @@
 
 
 <div align="center">
-<img src="https://github.com/SrLiath/SrLiath/blob/main/b.gif" style=" width: 200px; /* width of container */
-    height: 200px; /* height of container */
-    object-fit: cover;
-    border: 5px solid black;">
+  <img src="https://i.imgur.com/3y2J5V0.gif">
 </div>
 
 
