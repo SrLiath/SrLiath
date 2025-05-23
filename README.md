@@ -96,7 +96,7 @@
 <li> Martial arts🥊</li>
 <li> Basketball🏀</li>
 <li> Cooking🍲</li>
-<li> Chess♞</li>
+<li><strong><a href="https://srliath.github.io/chess/">Chess♞</a></strong></li>
 </ul>
 
 <div id="user-content-toc">
@@ -107,7 +107,7 @@
 
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/SrLiath) **[SrLiath](https://github.com/SrLiath)**  
 
-[![Instagram](https://skillicons.dev/icons?i=instagram)](http://instagram.com/jawjihn) **[JawJihn](http://instagram.com/jawjihn)**  
+[![Instagram](https://skillicons.dev/icons?i=instagram)](http://instagram.com/jawjihn) **[JawJihn](https://instagram.com/jawjihn)**  
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/jawjihn) **[Jonathan Santos](https://linkedin.com/in/jawjihn)**  
 
