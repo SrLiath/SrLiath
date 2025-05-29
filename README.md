@@ -25,7 +25,7 @@
   
 - 🔭 I'm currently doing working with **javascript(nodejs), php, flutter and React Native**.
 
-- 🌱 I’m currently improving my skills.
+- 🌱 I'm playing around with Go.
 
 - ☁️ I've keen interest in cybersecurity, so I always learn as a hobby about security and pentesting.
 
