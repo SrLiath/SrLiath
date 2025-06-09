@@ -21,7 +21,7 @@
 </div>
 
 <!--Intro start-->
-- 🔎 I'm currently learning anothers languages.
+- 🔎 I'm a freelancer.
   
 - 🔭 I'm currently doing working with **javascript(nodejs), php, flutter and React Native**.
 
