@@ -21,11 +21,11 @@
 </div>
 
 <!--Intro start-->
-- 🔎 I'm a freelancer.
+- 🔎 I've started my own outsourcing company.
   
 - 🔭 I'm currently doing working with **javascript(nodejs), php, flutter and React Native**.
 
-- 🌱 I'm playing around with Go.
+- 🌱 I'm playing around with AI.
 
 - ☁️ I've keen interest in cybersecurity, so I always learn as a hobby about security and pentesting.
 
