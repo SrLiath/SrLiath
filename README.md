@@ -32,31 +32,54 @@
 - 📫 Feel free to reach me out **Santos.jonathan.jj@gmail.com**
 
 <!--Intro end-->
-<h2>👨‍💻 Programming Languages</h2>
 
-<p>
- <img src="https://skillicons.dev/icons?i=nodejs,ts,js,php,java,dart" />
+---
 
-</p>
+### 👨‍💻 Programming Languages
 
-<h2>🧰 Frameworks and Libraries</h2>
+![Node.js](https://img.shields.io/badge/-Node.js-000?style=flat\&logo=nodedotjs)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=flat\&logo=typescript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat\&logo=javascript)
+![PHP](https://img.shields.io/badge/-PHP-000?style=flat\&logo=php)
+![Java](https://img.shields.io/badge/-Java-000?style=flat\&logo=openjdk)
+![Dart](https://img.shields.io/badge/-Dart-000?style=flat\&logo=dart)
 
-<p>
- <img src="https://skillicons.dev/icons?i=jquery,electron,selenium,react,flutter,adonis,laravel" />
-</p>
+---
 
-<h2>🗄️ Databases and Cloud Hosting</h2>
+### 🧰 Frameworks and Libraries
 
-<p>
- <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,gcp,aws,azure" />
-</p>
+![jQuery](https://img.shields.io/badge/-jQuery-000?style=flat\&logo=jquery)
+![Electron](https://img.shields.io/badge/-Electron-000?style=flat\&logo=electron)
+![Selenium](https://img.shields.io/badge/-Selenium-000?style=flat\&logo=selenium)
+![React](https://img.shields.io/badge/-React-000?style=flat\&logo=react)
+![Flutter](https://img.shields.io/badge/-Flutter-000?style=flat\&logo=flutter)
+![AdonisJS](https://img.shields.io/badge/-AdonisJS-000?style=flat\&logo=adonisjs)
+![Laravel](https://img.shields.io/badge/-Laravel-000?style=flat\&logo=laravel)
 
-<h2>💻 Software and Tools</h2>
+---
 
- <img src="https://skillicons.dev/icons?i=vscode,androidstudio,bash,docker,linux,windows,apple" />
+### 🗄️ Databases and Cloud Hosting
 
+![MySQL](https://img.shields.io/badge/-MySQL-000?style=flat\&logo=mysql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=flat\&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=flat\&logo=postgresql)
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-000?style=flat\&logo=google-cloud)
+![AWS](https://img.shields.io/badge/-AWS-000?style=flat&logo=aws)
+![Azure](https://img.shields.io/badge/-Azure-000?style=flat&logo=microsoftazure)
 
+---
 
+### 💻 Software and Tools
+
+![VS Code](https://img.shields.io/badge/-VSCode-000?style=flat\&logo=visual-studio-code)
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-000?style=flat\&logo=android-studio)
+![Bash](https://img.shields.io/badge/-Bash-000?style=flat\&logo=gnu-bash)
+![Docker](https://img.shields.io/badge/-Docker-000?style=flat\&logo=docker)
+![Linux](https://img.shields.io/badge/-Linux-000?style=flat\&logo=linux)
+![Windows](https://img.shields.io/badge/-Windows-000?style=flat\&logo=windows)
+![Apple](https://img.shields.io/badge/-Apple-000?style=flat\&logo=apple)
+ 
+---
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
